@@ -15,8 +15,10 @@ The purpose of this analysis is to create a summary DataFrame using Pandas and M
 ## Summary 
 
 -	Based on the results here are three recommendations to the CEO:
-1.	Opportunities to expand the ride sharing platform by hiring more drivers in rural and suburban cities, thus lowering the average fare per ride for costumers.
-2.	In Urban cities – opportunities to expand more rides for drivers and customers are happy. 
+1. Opportunities to expand the ride sharing platform by hiring more drivers in rural and suburban cities, thus lowering the average fare per ride for costumers.
+2. In Urban cities – opportunities to expand more rides for drivers and customers are happy. 
+3. In Rural Cities – opportunities to expand Total Fares by marketing and advertising by offering exclusive deals for new customers and frequent loyal customer discount. 
+
 
 ![image](https://user-images.githubusercontent.com/91576834/143371034-2f383d18-884f-408d-a3b5-1b8cc358d728.png)
 
